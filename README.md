@@ -1,0 +1,1 @@
+# rails-bridge-project-gwc
